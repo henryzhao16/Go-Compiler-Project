@@ -68,4 +68,4 @@ Identifier | ( Expression ) | Literals | Unaries | Binary operations | Function 
 ```
 
 ## Reference
-Design pattern inspired from JOOS (Java Object-Oriented Subset), designed by Laurie Hendren of McGill University and Michael Schwartzbach from Aarhus University in Denmark
+Design pattern inspired from JOOS (Java Object-Oriented Subset), designed by Laurie Hendren of McGill University and Michael Schwartzbach from Aarhus University in Denmark, at https://github.com/comp520/JOOS.
