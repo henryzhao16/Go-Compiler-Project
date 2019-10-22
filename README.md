@@ -1,4 +1,4 @@
-# Go Compiler Project
+# GoLite Compiler
 
 ## Description 
 
