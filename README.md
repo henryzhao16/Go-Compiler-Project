@@ -1,4 +1,4 @@
-# GoLite Compiler
+# GoLitec
 
 ## Description 
 
